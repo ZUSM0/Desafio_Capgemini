@@ -12,7 +12,7 @@ Para testar os conhecimentos de programação dos participantes do processo sele
 
 - Após os desafios estarem no seu computador, você abri-lo com a IDE ou editor de sua escolha e executar o arquivo [DesafioCAPGEMINI.py](https://github.com/ZUSM0/Desafio_Capgemini/blob/master/DesafioCAPGEMINI.py)
 
-- Ele ira executar um mini menu onde você pode escolher quais desafios você quer ver primeiro.
+- Ele irá executar um mini menu onde você pode escolher quais desafios você quer ver primeiro.
 
 ![caption](img/Menu.png)
 
