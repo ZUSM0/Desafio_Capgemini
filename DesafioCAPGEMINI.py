@@ -16,7 +16,7 @@ while True:
     while True:
         try:
             print()
-            user = int(input('Sua opção:').strip())
+            user = int(input('Qual desafio deseja ver? ').strip())
             if user <= 0 or user > 4:
                 print('\033[1;31mERRO: Valor digitado inválido. Verifique as opções..\033[m')
                 continue

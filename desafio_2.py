@@ -74,9 +74,11 @@ def desafio_2():
             3- Conter no mínimo 1 letra minúsculo
             4- Conter no mínimo 1 letre maiúscula
             5- Conter no mínimo 1 caractere especial. Exemplo: !@#$%^&*()-+.''')
+            print()
 
         else:
             print('\033[1;33mObrigado por usar meu analisador de senhas!!!\033[m')
             break
-        input('Aperte enter para continuar!')
+        
+        input('\033[1;33mAperte enter para continuar!\033[m')
         print()
